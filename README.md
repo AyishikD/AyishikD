@@ -11,7 +11,6 @@
   <a href="https://ad-folio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=00ff9c" /></a>
   <a href="https://linkedin.com/in/ayishik-das"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ayishikofficial@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=AyishikD&style=for-the-badge&color=203a43&label=PROFILE+VIEWS" />
 </p>
 
 ---
