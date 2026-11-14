@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=720&lines=Built+a+UPI-style+payments+engine+from+scratch+%F0%9F%92%B8;Then+came+back+and+broke+it+on+purpose+%F0%9F%94%93;Now+building+memory+for+AI+agents+%F0%9F%A7%A0;0.1ms+vector+search+at+1M+nodes+%E2%9A%A1;GenAI+POCs+%40+TCS+%7C+2nd+@+TCS+AI+Friday+%F0%9F%8F%86" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=720&lines=Built+a+UPI-style+payments+engine+from+scratch+%F0%9F%92%B8;Then+came+back+and+broke+it+on+purpose+%F0%9F%94%93;Now+building+memory+for+AI+agents+%F0%9F%A7%A0;0.1ms+vector+search+at+1M+nodes+%E2%9A%A1;GenAI+POCs+%40+an+MNC+%7C+2nd+in+internal+AI+challenge+%F0%9F%8F%86" />
 </p>
 
 <p align="center">
@@ -19,13 +19,13 @@
 
 ```yaml
 name:        Ayishik Das
-role:        System Engineer @ MNC
+role:        System Engineer @ MNC  # GenAI POCs for enterprise clients
 focus:       [AI agents, LLM infrastructure, RAG systems, backend engineering]
 flagship:    PayP  # payments engine, v1 → v6, still evolving
 shipped_at_work:
   - 3 GenAI POCs (Claude + Python, integrated with PeopleSoft)
   - ~70% reduction in manual processing
-  - 🥈 2nd place, TCS AI Friday
+  - 🥈 2nd place, company-wide AI challenge
 belief:      "AI is only as good as the backend underneath it"
 languages:   [C++20, Python, JavaScript/TypeScript, C, Java]
 location:    Kolkata, India 🇮🇳
@@ -97,7 +97,7 @@ timeline
     2023 – 24 : Web foundations : Shopify clone · ADgov · ADapp
     2024 – 25 : Down to the metal : MyShell (C) · Linux system monitor · PayP v1 → AutoPay
     2025      : Systems & performance : Vault (Redis-compatible KV) · FluxTrade (68.9 ns matching)
-    2026      : AI infrastructure : GenAI POCs @ TCS · Recallix · ModelLogger · PayP v6
+    2026      : AI infrastructure : GenAI POCs @ MNC · Recallix · ModelLogger · PayP v6
 ```
 
 ---
@@ -159,7 +159,7 @@ timeline
 ---
 
 ### 🏅 Side achievements
-`🥈 TCS AI Friday` · `🥇 CxthSense 2.0` · `🥇 TechQuisitive 5.0` · `⭐⭐⭐⭐⭐ HackerRank C++ & Java` · `🧑‍🏫 Mentor @ GirlScript Summer of Code`
+`🥈 MNC-wide AI challenge` · `🥇 CxthSense 2.0` · `🥇 TechQuisitive 5.0` · `⭐⭐⭐⭐⭐ HackerRank C++ & Java` · `🧑‍🏫 Mentor @ GirlScript Summer of Code`
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:203a43,100:0f2027&height=100&section=footer" />
