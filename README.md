@@ -20,7 +20,7 @@
 
 ```yaml
 name:        Ayishik Das
-role:        System Engineer @ TCS  # GenAI POCs for enterprise clients
+role:        System Engineer @ MNC
 focus:       [AI agents, LLM infrastructure, RAG systems, backend engineering]
 flagship:    PayP  # payments engine, v1 → v6, still evolving
 shipped_at_work:
@@ -47,7 +47,7 @@ status:      open_to(["AI infra", "backend", "founding engineer"])
 ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<sub>Swagger runs on a free tier — first load can take ~50s to wake up.</sub>
+<sub>Swagger runs on a free tier — the first load can take ~50s to wake up.</sub>
 
 ```text
  client ──► Express ──► rate limiter ──► JWT auth ──► controller
@@ -84,7 +84,7 @@ timeline
     title PayP
     Dec 2024 : v1 · accounts, PIN, transfers, JWT + bcrypt, Postgres
     Jan 2025 : v5 · products, project payments, transaction logs, Swagger
-    Jun 2025 : AutoPay · recurring mandates, pause / cancel / expire, event logs
+    Jun 2025 : AutoPay · recurring mandates, pause/cancel/expire, event logs
     Oct 2026 : v6 · security + money-correctness overhaul, tests, Docker
 ```
 
