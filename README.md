@@ -1,27 +1,167 @@
-<h1 align="center">Hi 👋, I'm Ayishik Das</h1>
-<h3 align="center">An undergrad looking for more Opportunities and Challenges.</h3>
+<!-- ═══════════════ HEADER ═══════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ff9c&height=200&section=header&text=Ayishik%20Das&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Agents%20%E2%80%A2%20LLM%20Infra%20%E2%80%A2%20RAG%20%E2%80%A2%20Backend&descAlignY=58&descSize=18" />
+</p>
 
-# 💫 About Me:
-🔭 I’m currently working on trying c++ backend.<br>👯 I’m looking to collaborate on a new coding language project.<br>🤝 I’m looking for help with creating parser files and compiler design.<br>🌱 I’m currently learning development.<br>⚡ Fun fact: My best friend is ChatGpt.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=720&lines=Built+a+UPI-style+payments+engine+from+scratch+%F0%9F%92%B8;Then+came+back+and+broke+it+on+purpose+%F0%9F%94%93;Now+building+memory+for+AI+agents+%F0%9F%A7%A0;0.1ms+vector+search+at+1M+nodes+%E2%9A%A1;GenAI+POCs+%40+TCS+%7C+2nd+@+TCS+AI+Friday+%F0%9F%8F%86" />
+</p>
 
+<p align="center">
+  <a href="https://ad-folio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00ff9c?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/ayishik-das"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ayishikofficial@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AyishikD&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/ayishik-das) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ayishikad) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AYISHIKD&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AYISHIKD&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AYISHIKD&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+### `$ whoami`
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AYISHIKD&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+```yaml
+name:        Ayishik Das
+role:        System Engineer @ TCS  # GenAI POCs for enterprise clients
+focus:       [AI agents, LLM infrastructure, RAG systems, backend engineering]
+flagship:    PayP  # payments engine, v1 → v6, still evolving
+shipped_at_work:
+  - 3 GenAI POCs (Claude + Python, integrated with PeopleSoft)
+  - ~70% reduction in manual processing
+  - 🥈 2nd place, TCS AI Friday
+belief:      "AI is only as good as the backend underneath it"
+languages:   [C++20, Python, JavaScript/TypeScript, C, Java]
+location:    Kolkata, India 🇮🇳
+status:      open_to(["AI infra", "backend", "founding engineer"])
+```
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AYISHIKD&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 💸 Flagship: [PayP](https://github.com/AyishikD/PayP) — a UPI-style payment platform, built from scratch
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> My first serious backend, written by hand before AI tools were part of how I work.
+> Two years later I came back, audited it like an attacker, and rebuilt the parts that would have lost real money.
+
+[![Swagger](https://img.shields.io/badge/API_Docs-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://payp.onrender.com/api-docs/)
+[![Postman](https://img.shields.io/badge/Tested_in-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/mission-geologist-4118891/payp/collection/za1hjme/routes-payp)
+[![Medium](https://img.shields.io/badge/Write--up-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ayishikad/payp-revolutionizing-payment-integration-with-custom-api-b63a6a329b97)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+<sub>Swagger runs on a free tier — first load can take ~50s to wake up.</sub>
+
+```text
+ client ──► Express ──► rate limiter ──► JWT auth ──► controller
+                                                          │
+                              verify PIN (bcrypt) ◄───────┤
+                                                          ▼
+                              ┌──────────────────────────────────────┐
+                              │  BEGIN                               │
+                              │    SELECT … FOR UPDATE  (row locks)  │
+                              │    debit / credit  DECIMAL(14,2)     │
+                              │    write transaction log             │
+                              │  COMMIT                              │
+                              └──────────────────────────────────────┘
+                                                          ▲
+ cron ──► AutoPay scheduler ──► due mandates ─────────────┘──► mandate events
+```
+
+#### 🔓 v6: I attacked my own v1 code
+
+| Bug in my 2024 code | What could go wrong | Fix in v6 |
+|---|---|---|
+| Money stored as floats | Rounding errors on real balances | `DECIMAL(14,2)` + strict amount validation |
+| Two payments at the same time | Race condition → double spend | DB transaction + row-level locks on every balance change |
+| PINs stored as plain text | One DB leak exposes every PIN | bcrypt-hashed PINs (existing ones migrated) |
+| Any user could read any log | IDOR: see other people's transactions | Ownership checks on logs and mandates |
+| JWTs never expired | A stolen token works forever | 1-hour expiry, old tokens rejected |
+| Login said "email not found" | Attackers can list who has an account | Generic errors + stricter auth rate limits |
+| AutoPay after downtime | Charge a user for every missed cycle at once | Skip missed cycles, log failures, auto-expire mandates |
+
+#### 🗺️ How it grew
+
+```mermaid
+timeline
+    title PayP
+    Dec 2024 : v1 · accounts, PIN, transfers, JWT + bcrypt, Postgres
+    Jan 2025 : v5 · products, project payments, transaction logs, Swagger
+    Jun 2025 : AutoPay · recurring mandates, pause / cancel / expire, event logs
+    Oct 2026 : v6 · security + money-correctness overhaul, tests, Docker
+```
+
+---
+
+### 🧬 How I've evolved
+
+```mermaid
+timeline
+    title From web apps to AI infrastructure
+    2023 – 24 : Web foundations : Shopify clone · ADgov · ADapp
+    2024 – 25 : Down to the metal : MyShell (C) · Linux system monitor · PayP v1 → AutoPay
+    2025      : Systems & performance : Vault (Redis-compatible KV) · FluxTrade (68.9 ns matching)
+    2026      : AI infrastructure : GenAI POCs @ TCS · Recallix · ModelLogger · PayP v6
+```
+
+---
+
+### ⚡ Other things I've built
+
+| | Project | What it does | Numbers / stack |
+|---|---|---|---|
+| 🧠 | **[Recallix](https://github.com/AyishikD/Recallix)** | Shared persistent memory for AI agents | **~0.1 ms** search @ 1M nodes · C++ HNSW + Python · [demo](https://recallix.vercel.app) |
+| 📊 | **[ModelLogger](https://github.com/AyishikD/xlogger)** | Research memory OS for AI/ML teams: turns experiment activity into a searchable memory graph, with autonomous agents | FastAPI · pgvector · Redis · LiteLLM · [demo](https://xlogger.vercel.app) |
+| 📈 | **[FluxTrade](https://github.com/AyishikD/FluxTrade)** | Exchange simulator: order book + matching engine | **68.9 ns**/match · C++20 |
+| 🗄️ | **[Vault](https://github.com/AyishikD/vault)** | Redis-compatible versioned KV store | C++ · RESP protocol |
+| 🔎 | **[MiniAI](https://github.com/AyishikD/MiniAI)** | Web search → LLM summary → follow-up Q&A | Groq · Llama 3 70B · [demo](https://miniai.streamlit.app) |
+| 📦 | **[alldbconnect](https://www.npmjs.com/package/alldbconnect)** | One npm API for many databases | published on npm |
+
+<details>
+<summary><b>🕹️ Low-level side quests (click to expand)</b></summary>
+<br>
+
+- **[MyShell](https://github.com/AyishikD/myshell)** — Linux shell from scratch in C: pipes, redirection, background jobs, history, tab completion
+- **[Crux](https://github.com/AyishikD/crux)** — C command-line tool for Linux
+- **Linux system monitor** — reads `/proc` directly, pure C
+- **[Shopify clone](https://github.com/AyishikD/shopify)** — full-stack e-commerce platform ⭐ 10 · [demo](https://shopify-silk.vercel.app)
+
+</details>
+
+---
+
+### 🛠️ Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,java&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,redis,sqlite,mongodb&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,docker,linux,git,vercel&theme=dark" />
+</p>
+
+<p align="center"><b>AI / LLM:</b> RAG · HNSW · pgvector · LLM agents · Claude · Llama · prompt engineering</p>
+
+---
+
+### 📡 Live telemetry
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AyishikD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=AyishikD&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyishikD&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyishikD/AyishikD/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/AyishikD/AyishikD/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### 🏅 Side achievements
+`🥈 TCS AI Friday` · `🥇 CxthSense 2.0` · `🥇 TechQuisitive 5.0` · `⭐⭐⭐⭐⭐ HackerRank C++ & Java` · `🧑‍🏫 Mentor @ GirlScript Summer of Code`
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:203a43,100:0f2027&height=100&section=footer" />
+</p>
